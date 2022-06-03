@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjeet
 - 👀 I’m interested in intership, part time, full time work. 
-- 🌱 I’m currently learning java programming, python programming, c++, c.
--    I’m looking to collaborate on any projects on backend and frontend programming. 
+- 🌱 I’m currently learning java programming, python programming, c++, c, CSS, JavaScript, HTML, Angular, Hibernate, React, Rest. 
+-    I’m looking to collaborate on any projects on backend and frontend, full Stack. 
 - 📫 Reach me at sanjeetparajuli9679@gmail.com/ sparaju@gmu.edu
 
 <!---
